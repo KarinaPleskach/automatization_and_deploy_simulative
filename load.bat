@@ -1,0 +1,1 @@
+D:\Education\python\automatization_final\venv\Scripts\python.exe D:\Education\python\automatization_final\load-data.py
