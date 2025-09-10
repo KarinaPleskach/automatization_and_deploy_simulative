@@ -1,0 +1,2 @@
+This folder stores daily CSV exports from cash registers.
+Some files here are intentionally non-CSV.
